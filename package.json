@@ -1,0 +1,22 @@
+{
+  "name": "my-fun-project",
+  "version": "0.2.0",
+  "description": "ch2 example",
+  "main": "mustache-test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/progh2/express_in_action_study.git"
+  },
+  "author": "Evan Hahn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/progh2/express_in_action_study/issues"
+  },
+  "homepage": "https://github.com/progh2/express_in_action_study#readme",
+  "dependencies": {
+    "mustache": "^2.3.0"
+  }
+}
